@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/nbasurto/CursoGESPRO_2026">
-    <img src="ruta/a/tu/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.jpg" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Nombre del Proyecto</h3>
@@ -84,4 +84,4 @@ Lo que necesitas instalar antes de empezar (ejemplo: npm, python, docker).
 
 1. Clona el repositorio
    ```sh
-   git clone [https://github.com/tu_usuario/nombre_del_repositorio.git](https://github.com/tu_usuario/nombre_del_repositorio.git)
+   git clone https://github.com//nbasurto/CursoGESPRO_2026.git
